@@ -4,6 +4,14 @@
 
 **My Goals App** is a practical app designed to help users save up for specific goals, such as purchasing a new notebook. Edson, for example, aims to buy a notebook priced at R$ 5,000. He finds it wise to save up the necessary funds to make the purchase outright, securing a good deal and avoiding the burden of monthly installments. With the My Goals App, he can set a savings goal and track his progress until he reaches the desired amount. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
 
+## Credits
+
+This project was developed based on the knowledge acquired through courses and educational materials provided by [rocketseat](https://www.rocketseat.com.br). Rockseat offers a wide range of high-quality courses and content for developers in various areas, including design, programming, and app development.
+
+We would like to thank the Rockseat team for providing valuable educational resources that contributed to the development of this project.
+
+For more information about the courses and materials offered by Rockseat, please visit the official website at [rocketseat](https://www.rocketseat.com.br).
+
 ## Technology
 
 The following are the key technologies and tools used in the development of this app:
