@@ -1,4 +1,4 @@
-# My Goals App?
+# My Goals App
 
 ![My Goals App Logo](./assets/images/icon.png)
 
