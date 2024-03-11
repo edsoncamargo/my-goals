@@ -1,8 +1,8 @@
-# My Goals App
+# My Goals
 
-![My Goals App Logo](./assets/images/icon.png)
+![My Goals Logo](./assets/images/icon.png)
 
-**My Goals App** is a practical app designed to help users save up for specific goals, such as purchasing a new notebook. Edson, for example, aims to buy a notebook priced at R$ 5,000. He finds it wise to save up the necessary funds to make the purchase outright, securing a good deal and avoiding the burden of monthly installments. With the My Goals App, he can set a savings goal and track his progress until he reaches the desired amount. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
+**My Goals** is a practical app designed to help users save up for specific goals, such as purchasing a new notebook. Edson, for example, aims to buy a notebook priced at R$ 5,000. He finds it wise to save up the necessary funds to make the purchase outright, securing a good deal and avoiding the burden of monthly installments. With the My Goals App, he can set a savings goal and track his progress until he reaches the desired amount. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
 
 ## Credits
 
@@ -26,7 +26,7 @@ The following are the key technologies and tools used in the development of this
 
 ## How It Works
 
-**My Goals App** is a practical app that allows users to set financial goals and track their savings efficiently. On the home screen, you'll find your current goals and the latest transactions, providing an overview of your financial progress. With a simple tap on the addition icon, you can easily add a new goal. Once added, it will be displayed in the list, and by selecting it, you can record new transactions, such as deposits or withdrawals, to track your progress towards the goal. With My Goals, you can manage your finances in an organized and effective manner, making it easier to achieve your financial objectives.
+**My Goals** is a practical app that allows users to set financial goals and track their savings efficiently. On the home screen, you'll find your current goals and the latest transactions, providing an overview of your financial progress. With a simple tap on the addition icon, you can easily add a new goal. Once added, it will be displayed in the list, and by selecting it, you can record new transactions, such as deposits or withdrawals, to track your progress towards the goal. With My Goals, you can manage your finances in an organized and effective manner, making it easier to achieve your financial objectives.
 
 ### Home
 
