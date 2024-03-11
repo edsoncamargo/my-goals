@@ -62,17 +62,15 @@ export default function Home() {
       fetchGoals();
     } catch (error) {
       Alert.alert("Erro", "Não foi possível cadastrar.");
-      console.log(error);
     }
   }
 
   async function fetchGoals() {
     try {
       const response = useGoal.all();
-      console.log(response);
       setGoals(response ?? []);
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
 
@@ -87,7 +85,7 @@ export default function Home() {
         }))
       );
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
 

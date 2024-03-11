@@ -76,7 +76,7 @@ export default function Details() {
         setIsLoading(false);
       }
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
 
@@ -104,7 +104,7 @@ export default function Details() {
 
       fetchDetails();
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
 
