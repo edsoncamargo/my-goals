@@ -55,8 +55,8 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/edsoncamargo/my-goals-app
-   cd your-path/my-goals-app
+   git clone https://github.com/edsoncamargo/nlw-my-goals-app.git
+   cd your-path/nlw-my-goals-app
    ```
 
 2. Install the dependencies:
